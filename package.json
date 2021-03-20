@@ -1,0 +1,21 @@
+{
+  "name": "neptune-bot",
+  "version": "1.0.0",
+  "description": "Simple Discord Economy Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "$help"
+  },
+  "keywords": [
+    "$"
+  ],
+  "author": "GH0S7_7#0001",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord-rich-presence": "0.0.8",
+    "discord.js": "^12.5.1",
+    "lowdb": "^1.0.0",
+    "quick.db": "^7.1.3"
+  }
+}
